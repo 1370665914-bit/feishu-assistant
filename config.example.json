@@ -1,0 +1,14 @@
+{
+  "profile": "feishu-assistant",
+  "app_id": "<APP_ID>",
+  "owner_id": "<OWNER_OPEN_ID>",
+  "chat_id": "<BOUND_CHAT_ID>",
+  "lark_bin": "<HOME>/.local/bin/lark-cli",
+  "codex_bin": "<HOME>/.local/bin/codex",
+  "codex_home": "<HOME>/.codex",
+  "task_timeout": 180,
+  "daily_limit": 30,
+  "queue_limit": 5,
+  "max_input_chars": 4000,
+  "history_pairs": 6
+}
